@@ -1,7 +1,7 @@
 # UICollectionViewLeftAlignedFlowLayout
 A `UICollectionViewLayout` mplementation that aligns the cells to the left `with Cache`.
 
-<img src="" />
+<img src="https://github.com/letqingbin/UICollectionViewLeftAlignedFlowLayout/blob/master/screenshot.png" />
 
 ### License
 
