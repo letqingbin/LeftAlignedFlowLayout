@@ -1,11 +1,11 @@
 //
-//  UICollectionViewLeftAlignedFlowLayout.m
+//  LeftAlignedFlowLayout.m
 //
 //  Created by qingbin on 2020/9/4.
 //  Copyright © 2020 qingbin. All rights reserved.
 //
 
-#import "UICollectionViewLeftAlignedFlowLayout.h"
+#import "LeftAlignedFlowLayout.h"
 
 @interface UICollectionViewLayoutAttributes (LeftAligned)
 
@@ -26,11 +26,11 @@
 
 #pragma mark -
 
-@interface UICollectionViewLeftAlignedFlowLayout()
+@interface LeftAlignedFlowLayout()
 @property(nonatomic, strong) NSMutableDictionary* itemAttributes;
 @end
 
-@implementation UICollectionViewLeftAlignedFlowLayout
+@implementation LeftAlignedFlowLayout
 
 #pragma mark - UICollectionViewLayout
 

@@ -1,7 +1,7 @@
-# UICollectionViewLeftAlignedFlowLayout
+# LeftAlignedFlowLayout
 A `UICollectionViewLayout` implementation that aligns the cells to the left `with Cache`.
 
-<img src="https://github.com/letqingbin/UICollectionViewLeftAlignedFlowLayout/blob/master/screenshot.png" />
+<img src="https://github.com/letqingbin/LeftAlignedFlowLayout/blob/master/screenshot.png" />
 
 ### License
 
@@ -9,6 +9,6 @@ A `UICollectionViewLayout` implementation that aligns the cells to the left `wit
 Licensed under MIT license
 ```
 
-UICollectionViewLeftAlignedFlowLayout required features are based on or derives from projects below:
+LeftAlignedFlowLayout required features are based on or derives from projects below:
 - MIT
   - [UICollectionViewLeftAlignedLayout](https://github.com/mokagio/UICollectionViewLeftAlignedLayout)
